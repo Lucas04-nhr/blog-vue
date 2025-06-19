@@ -1,4 +1,7 @@
-# blog
+# Blog
+
+> [!IMPORTANT]
+> Still in development...
 
 ## Project setup
 ```
